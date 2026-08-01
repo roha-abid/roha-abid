@@ -64,7 +64,7 @@ roha_abid:
 
 ## 💼 Featured Projects
 
-### 🏆 [Complaint Ease](https://github.com/roha-abid) — *Final Year Project (Team)*
+### 🏆 [ComplaEase](https://github.com/roha-abid) — *Final Year Project (Team)*
 > Automated complaint management platform with AI-assisted handling.
 
 - 🖥️ Built the front-end interface and core user-facing features
