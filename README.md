@@ -166,9 +166,11 @@ Visually engaging 3D personal portfolio website.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/roha-abid/roha-abid/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-<sub><i>Note: activate via the <a href="https://github.com/Platane/snk">snk GitHub Action</a> in this repo to generate the snake automatically.</i></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roha-abid/roha-abid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roha-abid/roha-abid/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/roha-abid/roha-abid/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
