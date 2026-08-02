@@ -83,7 +83,7 @@ Automated complaint management platform with AI-assisted handling.
 
 `React.js` `Next.js` `Tailwind CSS` `MySQL`
 
-[🔗 View Repo](https://github.com/roha-abid)
+[🔗 View Repo](https://github.com/roha-abid/compla_ease.git )
 
 </td>
 <td width="50%" valign="top">
@@ -99,7 +99,7 @@ Interactive 3D product configurator with real-time customization.
 
 `React.js` `Next.js` `Three.js` `Tailwind CSS`
 
-[🔗 View Repo](https://github.com/roha-abid)
+[🔗 View Repo](https://github.com/roha-abid/atelier-07-configurator.git)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Personal finance tracker with visual spending analytics.
 
 `React.js` `Next.js` `MySQL` `Tailwind CSS`
 
-[🔗 View Repo](https://github.com/roha-abid)
+[🔗 View Repo](https://github.com/roha-abid/ledger-and-lens.git )
 
 </td>
 <td width="50%" valign="top">
@@ -133,7 +133,7 @@ Visually engaging 3D personal portfolio website.
 
 `Three.js` `React.js` `Next.js` `Tailwind CSS`
 
-[🔗 View Repo](https://github.com/roha-abid)
+[🔗 View Repo](https://github.com/roha-abid/porfolio-3d.git)
 
 </td>
 </tr>
